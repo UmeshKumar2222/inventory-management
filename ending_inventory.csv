@@ -1,0 +1,13 @@
+Store_ID,Product_ID,Product_Name,Quantity,Date
+1,P001,Laptop,83,2024-12-31
+1,P002,Smartphone,120,2024-12-31
+1,P003,Tablet,58,2024-12-31
+1,P004,Headphones,100,2024-12-31
+2,P001,Laptop,55,2024-12-31
+2,P002,Smartphone,128,2024-12-31
+2,P003,Tablet,53,2024-12-31
+2,P004,Headphones,45,2024-12-31
+3,P001,Laptop,149,2024-12-31
+3,P002,Smartphone,121,2024-12-31
+3,P003,Tablet,49,2024-12-31
+3,P004,Headphones,149,2024-12-31
